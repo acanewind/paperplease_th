@@ -784,24 +784,24 @@ Stamp passport ENTRY VISA and return documents to entrant.
 
 Entry is restricted to Arstotzkan citizens only.
 
-Deny all foreigners.","Welcome to your new position at Grestin Border Checkpoint.
+Deny all foreigners.","ขอต้อนรับสู่งานใหม่ที่ด่านตรวจเกรสติน
 
-Stamp passport ENTRY VISA and return documents to entrant.
+ประทับตราหนังสือเดินทางที่ช่อง 'ตรวจลงตรา' แล้วส่งคืนให้เจ้าของ
 
-Entry is restricted to Arstotzkan citizens only.
+เฉพาะชาวอาร์สท็อตซกันเท่านั้นที่ได้รับสิทธิ์เข้าเมือง
 
-Deny all foreigners."
+ปฏิเสธชาวต่างชาติทุกคน"
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
 
 Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","From today, foreigners with a valid passport are permitted to enter.
+Continued...[PAGESNOTE]","นับแต่นี้ ชาวต่งชาติที่ถือหนังสือเดินทางที่สมบูรณ์จะได้รับสิทธิ์เข้าเมือง
 
-Your booth's INSPECTION hardware is now installed.
+เราได้ติดตั้งอุปกรณ์ 'ตรวจสอบ' ไว้ในคูหาของคุณแล้ว
 
-Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+ตรวจหาความผิดปกติในหนังสือเดินทางทุกฉบับอย่างละเอียด ปฏิเสธการเข้าเมืองหากพบข้อมูลที่ไม่สอดคล้องกัน
 
 Continued...[PAGESNOTE]"
 "bulletin:2B","__________________________
