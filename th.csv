@@ -539,47 +539,47 @@
 "text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","$0,$1,และ$2ของคุณเตรียมตัวกลับไปยังเนิร์สค"
 "text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","$0,$1,$2,และ$3ของคุณเตรียมตัวกลับไปยังเนิร์สค"
 "text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","$0,$1,$2,$3,และ$4ของคุณเตรียมตัวกลับไปยังเนิร์สค"
-"text:family_flee_final_0","Obristan Above All","ทุกคนถึง"
-"text:family_flee_final_1","The safety of your $0 is unknown.","The safety of your $0 is unknown."
-"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","The safety of your $0 and $1 is unknown."
-"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","The safety of your $0, $1, and $2 is unknown."
-"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0, $1, $2, and $3 is unknown."
-"text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","The safety of your $0, $1, $2, $3, and $4 is unknown."
-"text:budget_savings","SAVINGS","SAVINGS"
-"text:budget_salary","SALARY ($0)","SALARY ($0)"
-"text:budget_penalties","PENALTIES ($0)","PENALTIES ($0)"
-"text:budget_bribes","BRIBES","BRIBES"
-"text:budget_rent","RENT","RENT"
-"text:budget_food","FOOD","FOOD"
-"text:budget_heat","HEAT","HEAT"
-"text:budget_medicine","MEDICINE ($0)","MEDICINE ($0)"
-"text:budget_sleep","SLEEP","SLEEP"
-"text:budget_escape","ESCAPE","ESCAPE"
-"text:menu_back","BACK","BACK"
-"text:confirm_ok","OKAY","OKAY"
-"text:confirm_cancel","CANCEL","CANCEL"
-"text:menu_mainmenu","MAIN MENU","MAIN MENU"
-"text:menu_resume","RESUME","RESUME"
-"text:menu_quit","QUIT","QUIT"
-"text:menu_done","DONE","DONE"
-"text:menu_story","STORY","STORY"
+"text:family_flee_final_0","Obristan Above All","ทุกคนถึงอ็อบริสทันโดยสวัสดิภาพ"
+"text:family_flee_final_1","The safety of your $0 is unknown.","ยังไม่รู้ว่า$0ของคุณเป็นตายร้ายดีอย่างไร"
+"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","ยังไม่รู้ว่า$0และ$1เป็นตายร้ายดีอย่างไร"
+"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","ยังไม่รู้ว่า$0,$1และ$2ของคุณเป็นตายร้ายดีอย่างไร"
+"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","ยังไม่รู้ว่า$0,$1,$2,และ$3ของคุณเป็นตายร้ายดีอย่างไร"
+"text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","ยังไม่รู้ว่า$0,$1,$2,$3,และ$4ของคุณเป็นตายร้ายดีอย่างไร"
+"text:budget_savings","SAVINGS","เงินเก็บ"
+"text:budget_salary","SALARY ($0)","เงินเดือน ($0)"
+"text:budget_penalties","PENALTIES ($0)","ค่าปรับ ($0)"
+"text:budget_bribes","BRIBES","สินบน"
+"text:budget_rent","RENT","ค่าเช่า"
+"text:budget_food","FOOD","อาหาร"
+"text:budget_heat","HEAT","ความร้อน"
+"text:budget_medicine","MEDICINE ($0)","ยารักษาโรค ($0)"
+"text:budget_sleep","SLEEP","นอนหลับ"
+"text:budget_escape","ESCAPE","หลบหนี"
+"text:menu_back","BACK","กลับ"
+"text:confirm_ok","OKAY","ตกลง"
+"text:confirm_cancel","CANCEL","ยกเลิก"
+"text:menu_mainmenu","MAIN MENU","เมนูหลัก"
+"text:menu_resume","RESUME","เล่นต่อ"
+"text:menu_quit","QUIT","ออก"
+"text:menu_done","DONE","เสร็จ"
+"text:menu_story","STORY","เนื้อเรื่อง"
 "text:menu_endless","ENDLESS","ENDLESS"
-"text:menu_play","PLAY","PLAY"
-"text:menu_fullscreen","Fullscreen","Fullscreen"
-"text:menu_nudity","Nudity","Nudity"
-"text:menu_easy","Easy Mode","Easy Mode"
-"text:menu_music","Music","Music"
-"text:menu_sound","Sound","Sound"
-"text:menu_dateformat","Date Format","Date Format"
-"text:menu_language","Language","Language"
-"text:menu_easytip","+ 20 credits per day","+ 20 credits per day"
-"text:menu_stats","STATS","STATS"
-"text:menu_next","NEXT","NEXT"
-"text:menu_walktowork","WALK TO WORK","WALK TO WORK"
-"text:menu_paused","PAUSED","PAUSED"
-"text:menu_settings","SETTINGS","SETTINGS"
-"text:menu_credits","CREDITS","CREDITS"
-"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
+"text:menu_play","PLAY","เล่น"
+"text:menu_fullscreen","Fullscreen","เต็มจอ"
+"text:menu_nudity","Nudity","โป๊เปลือย"
+"text:menu_easy","Easy Mode","โหมดง่าย"
+"text:menu_music","Music","ดนตรี"
+"text:menu_sound","Sound","เสียง"
+"text:menu_dateformat","Date Format","รูปแบบวันที่"
+"text:menu_language","Language","ภาษา"
+"text:menu_easytip","+ 20 credits per day","+ 20 เครดิตต่อวัน"
+"text:menu_stats","STATS","สถิติ"
+"text:menu_next","NEXT","ต่อไป"
+"text:menu_walktowork","WALK TO WORK","เดินไปทำงาน"
+"text:menu_paused","PAUSED","หยุดชั่วคราว"
+"text:menu_settings","SETTINGS","ปรับแต่ง"
+"text:menu_credits","CREDITS","เครดิต"
+"text:menu_checkforupdates","CHECK FOR UPDATES","ตรวจสอบอัพเดท"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -587,14 +587,14 @@ $denied denied
 $detained detained
 $citations citations earned
 $stamps stamps applied
-Ending $endnum of $endtotal","Played for $time
-$processed travelers processed
-$approved approved
-$denied denied
-$detained detained
-$citations citations earned
-$stamps stamps applied
-Ending $endnum of $endtotal"
+Ending $endnum of $endtotal","เล่นมาแล้ว $time
+ตรวจมา $processed คน
+อนุมัติ $approved คน
+ไม่อนุมัติ $denied คน
+จับกุม $detained คน
+หมายเตือน $citations ครั้ง
+ประทับตรา $stamps ครั้ง
+ฉากจบ $endnum แบบ จาก $endtotal"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
 If this problem persists, re-install the Steam client.","STEAM CONNECTION FAILED
@@ -610,67 +610,66 @@ If this problem persists, re-install the Steam client."
 The game will attempt to restart through the Steam client.","STEAM CONNECTION FAILED
 
 The game will attempt to restart through the Steam client."
-"text:steam_restart","RESTART","RESTART"
-"text:load_title","Select day to continue or start a new game","Select day to continue or start a new game"
+"text:steam_restart","RESTART","เริ่มเกมใหม่"
+"text:load_title","Select day to continue or start a new game","เลือกวันเพื่อเล่นต่อ หรือเริ่มใหม่"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
-There is no undo.","Delete this day $0 save?
+There is no undo.","ลบเซฟของวันที่ $0 ?
 
-There is no undo."
+หากลบแล้วไม่สามารถย้อนกลับได้"
 "text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
 
-There is no undo.","Delete this save branch from day $0 to day $1?
+There is no undo.","ลบเซฟและส่วนย่อยตั้งแต่วันที่ $0 จนถึง $1?
 
-There is no undo."
-"text:load_delete","DELETE","DELETE"
+หากลบแล้วไม่สามารถย้อนกลับได้"
+"text:load_delete","DELETE","ลบ"
 "text:load_confirm_full","Save tracks full.
 
-Continue from a right-most save or delete a save branch to free up a track.","Save tracks full.
+Continue from a right-most save or delete a save branch to free up a track.","ช่องเซฟเต็มแล้ว
 
-Continue from a right-most save or delete a save branch to free up a track."
+เริ่มเกมจากเซฟขวาสุด หรือลบบางเซฟทิ้งเพื่อเพิ่มช่องเซฟ"
 "text:load_summary","Day $day
 ""$news""
 
 $savings credits, $family family members,
-$tokens tokens, apartment $apt","Day $day
+$tokens tokens, apartment $apt","วันที่ $day
 ""$news""
 
-$savings credits, $family family members,
-$tokens tokens, apartment $apt"
-"text:load_continue","CONTINUE","CONTINUE"
-"text:emotion_happy","HAPPY","HAPPY"
-"text:emotion_ok","OK","OK"
-"text:emotion_sad","SAD","SAD"
-"text:emotion_cold","COLD","COLD"
-"text:emotion_sick","SICK","SICK"
-"text:emotion_verysick","VERY SICK","VERY SICK"
-"text:emotion_dead","DEAD","DEAD"
-"text:emotion_hungry","HUNGRY","HUNGRY"
-"text:load_latest","LATEST","LATEST"
-"text:entry_approved","ENTRY GRANTED","ENTRY GRANTED"
-"text:entry_denied","ENTRY DENIED","ENTRY DENIED"
-"text:stamp_approved","APPROVED","APPROVED"
-"text:stamp_denied","DENIED","DENIED"
-"text:stamp_reason","REASON","REASON"
-"text:booth_dragdocs","DRAG DOCUMENTS HERE","DRAG DOCUMENTS HERE"
-"text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
+$savings เครดิต, สมาชิกครอบครัว $family คน,
+$tokens เหรียญตรา, ที่พัก $apt"
+"text:load_continue","CONTINUE","เล่นต่อ"
+"text:emotion_happy","HAPPY","มีความสุข"
+"text:emotion_ok","OK","ปกติดี"
+"text:emotion_sad","SAD","เศร้า"
+"text:emotion_cold","COLD","หนาว"
+"text:emotion_sick","SICK","ป่วย"
+"text:emotion_verysick","VERY SICK","ป่วยหนัก"
+"text:emotion_dead","DEAD","เสียชีวิต"
+"text:emotion_hungry","HUNGRY","หิว"
+"text:load_latest","LATEST","ล่าสุด"
+"text:entry_approved","ENTRY GRANTED","ได้เข้าเมือง"
+"text:entry_denied","ENTRY DENIED","ถูกปฏิเสธเข้าเมือง"
+"text:stamp_approved","APPROVED","อนุมัติ"
+"text:stamp_denied","DENIED","ไม่อนุมัติ"
+"text:stamp_reason","REASON","เหตุผล"
+"text:booth_dragdocs","DRAG DOCUMENTS HERE","วางเอกสารตรงนี้"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","เลือกส่วนที่มีความขัดแย้ง"
 "text:booth_discrepancy","DISCREPANCY
-DETECTED","DISCREPANCY
-DETECTED"
-"text:booth_interrogate","INTERROGATE","INTERROGATE"
+DETECTED","พบส่วนขัดแย้งกัน"
+"text:booth_interrogate","INTERROGATE","ซักถาม"
 "text:booth_matching","MATCHING
-DATA","MATCHING
-DATA"
+DATA","ข้อมูล
+ตรงกัน"
 "text:booth_nocorrelation","NO
-CORRELATION","NO
-CORRELATION"
+CORRELATION","ไม่มี
+ความสัมพันธ์กัน"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
-"text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
-"text:env_lettermale","M","M"
-"text:env_letterfemale","F","F"
-"text:env_noalias","No known alias","No known alias"
+CLEARED","ไม่พบ
+ความขัดแย้ง"
+"text:env_clearforentry","Applicant clear for entry","ผู้ยื่นคำร้องได้สิทธิ์เข้าเมือง"
+"text:env_lettermale","M","ช"
+"text:env_letterfemale","F","ญ"
+"text:env_noalias","No known alias","ไม่มีชื่อเรียกอื่น"
 "text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
 "text:endless_complete","$style
 $course
@@ -680,54 +679,54 @@ $score Points","$style
 $course
 
 $time
-$score Points"
-"text:endless_ranked","Ranked #$0","Ranked #$0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
-"text:endless_wrongcode","S O R R Y","S O R R Y"
-"text:date_verbose","$month $day, $year","$month $day, $year"
-"text:month_1","January","January"
-"text:month_2","February","February"
-"text:month_3","March","March"
-"text:month_4","April","April"
-"text:month_5","May","May"
-"text:month_6","June","June"
-"text:month_7","July","July"
-"text:month_8","August","August"
-"text:month_9","September","September"
-"text:month_10","October","October"
-"text:month_11","November","November"
-"text:month_12","December","December"
-"text:day_1","1st","1st"
-"text:day_2","2nd","2nd"
-"text:day_3","3rd","3rd"
-"text:day_4","4th","4th"
-"text:day_5","5th","5th"
-"text:day_6","6th","6th"
-"text:day_7","7th","7th"
-"text:day_8","8th","8th"
-"text:day_9","9th","9th"
-"text:day_10","10th","10th"
-"text:day_11","11th","11th"
-"text:day_12","12th","12th"
-"text:day_13","13th","13th"
-"text:day_14","14th","14th"
-"text:day_15","15th","15th"
-"text:day_16","16th","16th"
-"text:day_17","17th","17th"
-"text:day_18","18th","18th"
-"text:day_19","19th","19th"
-"text:day_20","20th","20th"
-"text:day_21","21st","21st"
-"text:day_22","22nd","22nd"
-"text:day_23","23rd","23rd"
-"text:day_24","24th","24th"
-"text:day_25","25th","25th"
-"text:day_26","26th","26th"
-"text:day_27","27th","27th"
-"text:day_28","28th","28th"
-"text:day_29","29th","29th"
-"text:day_30","30th","30th"
-"text:day_31","31st","31st"
+$score คะแนน"
+"text:endless_ranked","Ranked #$0","อันดับ #$0"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","จบโหมดเนื้อเรื่องโดยยังทำงานเป็นปกติ เพื่อปลดล็อค endless mode"
+"text:endless_wrongcode","S O R R Y","ข อ อ ภั ย"
+"text:date_verbose","$month $day, $year","$day $month, $year"
+"text:month_1","January","มกราคม"
+"text:month_2","February","กุมภาพันธ์"
+"text:month_3","March","มีนาคม"
+"text:month_4","April","เมษายน"
+"text:month_5","May","พฤษภาคม"
+"text:month_6","June","มิถุนายน"
+"text:month_7","July","กรกฎาคม"
+"text:month_8","August","สิงหาคม"
+"text:month_9","September","กันยายน"
+"text:month_10","October","ตุลาคม"
+"text:month_11","November","พฤศจิกายน"
+"text:month_12","December","ธันวาคม"
+"text:day_1","1st","1"
+"text:day_2","2nd","2"
+"text:day_3","3rd","3"
+"text:day_4","4th","4"
+"text:day_5","5th","5"
+"text:day_6","6th","6"
+"text:day_7","7th","7"
+"text:day_8","8th","8"
+"text:day_9","9th","9"
+"text:day_10","10th","10"
+"text:day_11","11th","11"
+"text:day_12","12th","12"
+"text:day_13","13th","13"
+"text:day_14","14th","14"
+"text:day_15","15th","15"
+"text:day_16","16th","16"
+"text:day_17","17th","17"
+"text:day_18","18th","18"
+"text:day_19","19th","19"
+"text:day_20","20th","20"
+"text:day_21","21st","21"
+"text:day_22","22nd","22"
+"text:day_23","23rd","23"
+"text:day_24","24th","24"
+"text:day_25","25th","25"
+"text:day_26","26th","26"
+"text:day_27","27th","27"
+"text:day_28","28th","28"
+"text:day_29","29th","29"
+"text:day_30","30th","30"
+"text:day_31","31st","31"
 "text:bulletin_default","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -736,11 +735,11 @@ Inspector,
 
 $content
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","อาร์สท็อตซกา
+สำนักงานตรวจคนเข้าเมือง
+ประกาศทางการ
 
-Inspector,
+,
 
 $content
 
