@@ -682,7 +682,7 @@ $time
 $score คะแนน"
 "text:endless_ranked","Ranked #$0","อันดับ #$0"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","จบโหมดเนื้อเรื่องโดยยังทำงานเป็นปกติ เพื่อปลดล็อค endless mode"
-"text:endless_wrongcode","S O R R Y","ข อ อ ภั ย"
+"text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$day $month, $year"
 "text:month_1","January","มกราคม"
 "text:month_2","February","กุมภาพันธ์"
@@ -743,7 +743,7 @@ Glory to Arstotzka.","อาร์สท็อตซกา
 
 $content
 
-Glory to Arstotzka."
+ขอความรุ่งโรจน์จงมีแด่อาร์สท็อตซกา"
 "text:bulletin_notice","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -752,15 +752,15 @@ NOTICE:
 
 $content
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","อาร์สท็อตซกา
+สำนักงานตรวจคนเข้าเมือง
+ประกาศทางการ
 
-NOTICE:
+แจ้งเพื่อทราบ:
 
 $content
 
-Glory to Arstotzka."
+ขอความรุ่งโรจน์จงมีแด่อาร์สท็อตซกา"
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -769,15 +769,15 @@ $style
 
 $course
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","อาร์สท็อตซกา
+สำนักงานตรวจคนเข้าเมือง
+ประกาศทางการ
 
 $style
 
 $course
 
-Glory to Arstotzka."
+ขอความรุ่งโรจน์จงมีแด่อาร์สท็อตซกา"
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
