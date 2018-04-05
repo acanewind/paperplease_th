@@ -268,7 +268,7 @@
 "RulesInnerConfiscation","PASSPORT CONFISCATION","การยึดพาสปอร์ต"
 "RulesInnerConfiscation","DROP PASSPORT IN CONFISCATION DRAWER","ใส่พาสปอร์ตในลิ้นชัก"
 "RulesInnerConfiscation","POLICY","นโยบาย"
-"RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","ต้องยึดพาสปอร์ต<br>ก่อนส่งไปกักขัง"
+"RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","ต้องยึดพาสปอร์ต<br>ก่อนจับกุมตัว"
 "RulesInnerConfiscation","MOI","ส.ต.ม."
 "RulesInnerLast","PROPERTY OF","สมบัติของ"
 "RulesInnerLast","M.O.A.","ส.ต.ม."
@@ -738,7 +738,6 @@ $content
 Glory to Arstotzka.","อาร์สท็อตซกา
 สำนักงานตรวจคนเข้าเมือง
 ประกาศทางการ
-
 ,
 
 $content
@@ -786,9 +785,11 @@ Entry is restricted to Arstotzkan citizens only.
 
 Deny all foreigners.","ขอต้อนรับสู่งานใหม่ที่ด่านตรวจเกรสติน
 
+
 ประทับตราหนังสือเดินทางที่ช่อง 'ตรวจลงตรา' แล้วส่งคืนให้เจ้าของ
 
 เฉพาะชาวอาร์สท็อตซกันเท่านั้นที่ได้รับสิทธิ์เข้าเมือง
+
 
 ปฏิเสธชาวต่างชาติทุกคน"
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
@@ -797,13 +798,14 @@ Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","นับแต่นี้ ชาวต่งชาติที่ถือหนังสือเดินทางที่สมบูรณ์จะได้รับสิทธิ์เข้าเมือง
+Continued...[PAGESNOTE]","นับแต่นี้ ชาวต่างชาติที่ถือหนังสือเดินทางที่
+สมบูรณ์จะได้รับสิทธิ์เข้าเมือง
 
 เราได้ติดตั้งอุปกรณ์ 'ตรวจสอบ' ไว้ในคูหาของคุณแล้ว
 
 ตรวจหาความผิดปกติในหนังสือเดินทางทุกฉบับอย่างละเอียด ปฏิเสธการเข้าเมืองหากพบข้อมูลที่ไม่สอดคล้องกัน
 
-Continued...[PAGESNOTE]"
+อ่านต่อ...[PAGESNOTE]"
 "bulletin:2B","__________________________
 INSPECT MODE
 
@@ -813,14 +815,15 @@ __________________________
 RULES &amp; REGULATIONS
 
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
-INSPECT MODE
+โหมดตรวจสอบ
 
-Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+เข้าสู่โหมด 'ตรวจสอบ' โดยการกดปุ่มแดงบนโต๊ะ
+ในระหว่างการตรวจสอบ ให้จับคู่สองส่วนที่ไม่ตรงกัน เพื่อแสดงตัวเลือกเพิ่มเติม
 
 __________________________
-RULES &amp; REGULATIONS
+กฎและข้อบังคับ
 
-This post is bound by Ministry of Admission rules and regulations. Study the rule book closely."
+ประกาศนี้เป็นข้อบังคับผูกพันธ์โดยสำนักงานตรวจคนเข้าเมือง กรุณาศึกษาคู่มืออย่างละเอียด"
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
